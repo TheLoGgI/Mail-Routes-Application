@@ -1,0 +1,18 @@
+**Post route 813**
+**-Roed 1-
+Module 836:
+  Stendisvej: 29, 24, 26, 31, 33, 28, 30, 43-45, 47
+  Stendisvej: 38, 36, 34, (32)
+  Stendisvej: 49, 40, 42, 53, 51
+  Stendisvej: 35, 37, 39
+  Stendyssevej: 4, 2
+Module 837:
+  øster Stendisvej: 5, 2, 1, 3, 4, 6
+  Skavevej: 8
+  øster Stendisvej: 8, (10), (7), (9)
+  Skavevej: 7, 5, 3
+  Stendyssevej: 1, 3
+  Skavevej 6, 1, 4, 2
+Module 838:
+  Møgelvangvej: 1, 3, 5, 2, 7, 9, 4, 6, 13, 8, 15, 10, 17, 12, 14
+  Viborgvej: 301, 285, 303, 300, 305, 307, 309, 302, 311, 304

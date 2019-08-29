@@ -1,0 +1,9 @@
+**Post route 813**
+**-Roed 1-
+  Module 835:
+    vinkelvej: 14, 12, 10, 17, 15
+    Højbjervej: 19,20,21,32
+    hovedevej: 19, 18, 21
+    højklostervej: 14
+    fangevej: 1, 3, (5), 7, 9
+    petravej: 23, 22, 25, 27

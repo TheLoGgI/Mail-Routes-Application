@@ -1,0 +1,16 @@
+{
+  "name": "Routes mapping API",
+  "version": "3.0",
+  "description": "Destructoring file",
+  "main": "readRoute.js",
+  "scripts": {},
+  "author": "Lasse",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.6.2",
+    "express": "^4.16.4",
+    "line-reader": "^0.4.0",
+    "nodemon": "^1.19.1"
+  }
+}

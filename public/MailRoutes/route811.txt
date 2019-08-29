@@ -1,0 +1,41 @@
+**Post route 813**
+**-Sort 2-
+Module 841
+  Bjerbyvej: 1, 4, 6, 3, 5, 7, 8
+  Hækvej: 4, 7
+  Bjerbyvej: 9, 11, 13, 15, 14, 12
+  Trevældevej: 2, 4, 7, 9, 11, 13, 3, 1
+Module 842:
+  Søvejen: 21, 31, 23, 25, 27, 29, 21, 22, 20, 18, 16, 14, 15
+  Bakkevej: 1, 3, 11
+  Søvejen: 13, 11, 9
+  Mejeriparken: 3, 1
+  Søvejen: 8, 10, 6, 7, 5, 4, 2, 3, 1
+  Tophøjvej: 1, 1B, 4, 6, 3, 8, 5, 10, 12, 14
+Module 843:
+  Kirkevænget: 1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 23, 25, 27, 18, 14, 12, 10, 8, 4, 2
+  Virkelyst: 1, 6, 4, 2
+  Tophøjvej: 11, 26A, 9
+  Fulgebakken: 1, 3, 7, 9A, 9B, 11, 13, 15, 17, 19, 21, 23A, 23B, 25, 27, 29, 31, 33, 37
+Module 844:
+  Fulgebakken: 38, 36, 34, 32, 30 28B, 28A, 26B, 26A, 24, 22, 20, 18, 12, 10, 6, 4, 2
+  Tophøjvej: 26, 24, 22, 18, 16
+  Vinkelvej: 2, 1, 3, 5, 4, 7, 6, 9, 11, 8A, 8B, 13, 15
+  Skolegade: 7, 2, 4, 13, 11, 9, 6, 8, 15, 10
+Module 845:
+  Skolegade: 12
+  Skråvej: 3, 1
+  Skolegade: 14, 16, 21, 17, 23, 25
+  Herrupvej: 6, 4, 2
+  Vester Herrupvej: 2, 4, 6, 8, 5, 12, 7, 14, 16, 18
+  Møgelvangsvej: 20, 18, 21, 19, 16
+  Svendshøjvej: 1, 3, 5, 2, 7
+Module 846:
+  Svendshedevej: 15, 13, 13A, 8, 6, 11, 9, 7
+  Hedegårdsvej: 7, 2, 3, 1
+  Svendshøjvej: 6, 4, 11
+  Nautrupvej: 32
+  Kokborgvej: 2, 1, 4, 6, 3, 5, 7, 8
+Module 847:
+  Kokborgvej: 10, 12, 14, 9, 9A, 16, 11, 17, 158, 13
+  Bjergbyvej: 19, 16, 18, 20, 22, 21, 24, 24A
